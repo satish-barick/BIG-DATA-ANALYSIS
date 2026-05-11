@@ -39,3 +39,6 @@ Overall, the project successfully demonstrated scalable big data processing, per
 # OUTPUT
 
 <img width="554" height="450" alt="Image" src="https://github.com/user-attachments/assets/bb6da81b-dd70-41c1-8fc2-104544640431" />
+<img width="597" height="455" alt="Image" src="https://github.com/user-attachments/assets/ffee17c0-0b11-45e0-93c7-c7fc5d08a7a1" />
+<img width="596" height="455" alt="Image" src="https://github.com/user-attachments/assets/343e850e-4301-4637-b4e9-e05f08141c69" />
+
