@@ -35,3 +35,7 @@ This type of analysis can be used in several real-world applications such as:
 * Real-time transportation analytics
 
 Overall, the project successfully demonstrated scalable big data processing, performance optimization, and anomaly detection using Dask on a large real-world transportation dataset.
+
+# OUTPUT
+
+<img width="554" height="450" alt="Image" src="https://github.com/user-attachments/assets/bb6da81b-dd70-41c1-8fc2-104544640431" />
